@@ -1,1 +1,2 @@
-# pwav1
+# hello-world-pwa
+A Hello World Progressive Web App (PWA)
